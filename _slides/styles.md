@@ -19,6 +19,6 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
-  - siri-apple
+
 ---
 
