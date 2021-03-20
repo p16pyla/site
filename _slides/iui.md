@@ -11,4 +11,5 @@ slides:
   - notifications 
   - google-now
   - chat-bot
+  - siri-apple
 ---
