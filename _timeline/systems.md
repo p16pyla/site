@@ -26,7 +26,7 @@ events:
   - digital-desk
   - windows95
   - lifestreams
-  - apple-siri
+  - siri-apple
   - ios-apple
 ---
 
