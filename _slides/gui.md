@@ -20,4 +20,5 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - ios-apple
 ---
