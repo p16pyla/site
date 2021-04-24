@@ -11,4 +11,4 @@ tags:
   - Apple II
 ---
 
-{% include extras/bio-bricklin.md %}
+{% include_relative bio-bricklin.md %}
