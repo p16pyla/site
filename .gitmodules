@@ -21,7 +21,3 @@
 	url = https://github.com/p16pyla/_gallery.git
 	branch = 2016136
 
-[submodule "images"]
-	path = images
-	url = https://github.com/p16pyla/images.git
-	branch = 2016136
