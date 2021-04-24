@@ -16,4 +16,4 @@ gallery:
 
 {% include_relative cs-safari_search.md %}
 
-{% include gallery %}
+
