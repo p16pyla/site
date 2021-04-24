@@ -14,6 +14,6 @@ gallery:
     caption: Το λογισμικό ios της apple διανέμεται από την ιδιά και είναι διαθέσιμο αποκλειστικά μόνο στις συσκευές της iphone,ipad,ipod και apple tv. Η πρώτη κυκλοφορία έγινε το 2007.""
 ---
 
-{% include extras/cs-safari_search.md %}
+{% include_relative cs-safari_search.md %}
 
 {% include gallery %}
